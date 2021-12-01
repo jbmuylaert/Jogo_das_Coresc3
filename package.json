@@ -1,0 +1,8 @@
+{
+    "main": "dist/scriptJS.js",
+    "types": "dist/scriptJS.d.ts",
+    "scripts": {
+      "start": "ts-node scriptJS.ts",
+      "build": "tsc"
+    }
+  }
